@@ -18,6 +18,6 @@ found in src/. The file src/challenge_server.py should be run. It uses
 standalone Bottle to work.  Update the static directory path in
 challenge_server.py
 
-How to Stand Up locally: Install [vagrant](http://vagrantup.com/) and then run vagrant up from the root of this directory. After the script finished, navigate to [localhost:8080](http://localhost:8080) in your browser.
+How to Stand Up locally: Install [vagrant](http://vagrantup.com/) and then run `vagrant up` from the root of this directory. After the script finished, navigate to [localhost:8080](http://localhost:8080) in your browser.
 
 Flag: MCA-57412B01
