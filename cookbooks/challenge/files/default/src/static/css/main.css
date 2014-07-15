@@ -1,0 +1,56 @@
+/*
+ * This file contains the style for the Jedi page
+ */
+
+body
+{
+	background-image:url('/static/img/tileable.png');
+	background-repeat:repeat;
+	font-size:16pt;
+}
+
+#center
+{
+	width:64%;
+	margin-left:18%;
+	margin-right:18%;
+	top:0px;
+	height:100%;
+	background-image:none;
+	background-color:rgba(187, 213, 217, 0.8);
+}
+
+P
+{
+	text-indent:30px;
+}
+
+#content
+{
+	position:relative;
+	padding-left:2%;
+	padding-right:2%;
+	height:100%;
+}
+
+.centerImg
+{
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+.rightImg
+{
+	margin-right:0;
+	margin-left:auto;
+	display:block;
+	position:relative;
+}
+
+.rightWrap
+{
+	margin:10px;
+	float:right;
+	position: relative;
+}

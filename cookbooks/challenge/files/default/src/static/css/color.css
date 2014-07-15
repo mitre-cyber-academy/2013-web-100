@@ -1,0 +1,35 @@
+/*
+ * This file describes the colors for the Jedi page
+ */
+#M
+{
+	background-color:#57;
+	font-weight:10px;
+	text-align:left;
+}
+
+#C
+{
+	text-decoration:overline;
+	font-color:#41;
+	margin-top:-5px;
+}
+
+#A
+{
+	position:absolute;
+	display:block;
+	border-color:#2B;
+}
+
+#-
+{
+	padding-top:30px;
+	padding-right:10px;
+	color:#01;
+}
+
+
+
+	
+
